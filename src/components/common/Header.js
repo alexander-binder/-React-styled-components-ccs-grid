@@ -107,6 +107,10 @@ export function Header() {
                 <StyledLink to="/" isActive={pathname === '/'}>
                     Home
                 </StyledLink>
+
+                <StyledLink to="/" isActive={pathname === '/about'}>
+                    About
+                </StyledLink>
             </Menu>    
         </HeaderWrapper>
     );
