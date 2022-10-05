@@ -9,7 +9,7 @@ const MainStyle = styled.main`
 
 
    @media (min-width: 720px){
-       grid-column: 3 / span 10;
+       grid-column: 3 / span 8;
        display: flex;
        flex-direction: column;
        justify-content: space-between;

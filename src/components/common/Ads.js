@@ -9,7 +9,8 @@ const Ads = styled.div`
 
 
    @media (min-width: 720px){
-       grid-column: 1 / span 2;
+       grid-column: 11 / span 2;
+       grid-row: 1 / 3;
    }
 `;
 

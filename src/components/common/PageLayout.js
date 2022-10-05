@@ -4,7 +4,7 @@ import {Header} from "./Header";
 
 
 const Content = styled.main`
-    max-width: 800px;
+    max-width: 1200px;
     margin: 80px;
     padding: 0 16px;
     box-sizing: border-box;

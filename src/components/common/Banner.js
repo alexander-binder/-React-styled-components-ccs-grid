@@ -9,7 +9,8 @@ const Banner = styled.div`
    /* font-family: 'Permanent Marker'; */
 
    @media (min-width: 720px){
-       grid-area: 1 / span 12;
+       grid-column: 3 / span 8;
+       grid-row: 1;
        padding: 20px
    }
 `;

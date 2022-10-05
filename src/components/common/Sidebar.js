@@ -10,7 +10,7 @@ const Sidebar = styled.div`
 
    @media (min-width: 720px){
        grid-column: 1 / span 2;
-       grid-row: 2;
+       grid-row: 1 / 3;
    }
 
 `;

@@ -8,7 +8,7 @@ const Footer = styled.footer`
 
 
    @media (min-width: 720px){
-       grid-column: 3 / span 10;
+       grid-column: 1 / span 12;
        grid-row: 3;
    }
 
